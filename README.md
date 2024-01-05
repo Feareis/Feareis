@@ -27,11 +27,10 @@
  # About me -
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ❤️ &emsp; Love to writing code <br/><br/>
- 📧 &emsp; Reach me anytime: v.reisse@protonmail.com<br/><br/>
-
+ 📧 &emsp; Reach me anytime: fea.dev@proton.me
+        
+<br/>
 </p>
 <br/>
 
@@ -48,10 +47,11 @@
 <br/>
 
 ## Top Project (actually) -
-[![VIP card from GTA5](https://github-readme-stats.vercel.app/api/pin/?username=feariis&repo=rsrp_unicorn_vipcard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Feariis/rsrp_unicorn_vipcard)
+[![VIP card from GTA5](https://github-readme-stats.vercel.app/api/pin/?username=feareis&repo=rsrp_unicorn_vipcard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Feareis/rsrp_unicorn_vipcard)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=feareis&repo=Fea-Folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Feareis/Fea-Folio)
 
 <p align="left">
-  <a href="https://github.com/feariis?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/feareis?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
