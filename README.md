@@ -5,7 +5,6 @@
 -   ⚒️ Currently working on a osint tools: Frontier's
 -   🔰 Learning OSINT and cybersecurity
 -   ❤️ Love to learn new technologies
--   🔮 My future plan is to start a business and take it to international level
 <!-- -   🔭 Looking for new opportunity -->
 
 ## Skills and Tools:
