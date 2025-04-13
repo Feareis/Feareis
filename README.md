@@ -1,6 +1,6 @@
 # Hi there, I'm Fea 👋
 
-## I'm a Frontend Developer
+## I'm a System & network administrator, passionate about IT development
 
 -   ⚒️ Currently working on a osint tools: Frontier's
 -   🔰 Learning OSINT and cybersecurity
