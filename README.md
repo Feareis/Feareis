@@ -18,7 +18,6 @@
 
 ## Connect with me:
 
-[![mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=v.reisse@protonmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varei)
 
 <!--START_SECTION:activity-->
