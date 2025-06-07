@@ -1,5 +1,5 @@
 <h1 align="center">Feareis</h1>
-<h3 align="center">System & Network Administrator / Develloper</h3>
+<h3 align="center">System and network administrator / Developer</h3>
 
 <p align="left">
 </p>
