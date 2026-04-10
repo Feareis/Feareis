@@ -1,4 +1,4 @@
-<h1 align="center">Fea — Valentin</h1>
+<h1 align="center">Fea</h1>
 <h3 align="center">Sysadmin · Developer · Open-source enthusiast</h3>
 
 <p align="center">
