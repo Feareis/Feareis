@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=feareis&label=Profile%20views&color=3ECF8E&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://nothing.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
-</p>
-
 ---
 
 ## 🧠 Languages & Development
