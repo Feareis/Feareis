@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Automation+enthusiast;I+build+simple+open-source+tools;Tools+that+just+get+the+job+done" alt="Typing SVG" />
 </p>
 <p align="center">
-  Into <b>infrastructure</b> and <b>automation</b>, building <b>open-source tools</b> on the side.<br>
   I spend most of my time around infrastructure and automation.<br>
   The projects below started the same way: I needed a tool, couldn't find one that did just that, and wrote it.
 </p>
