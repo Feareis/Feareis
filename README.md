@@ -20,16 +20,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/Feareis/Orphan">orphan</a></h3>
-      <b>The bus factor, made concrete.</b><br>
-      Lists the files only one person really knows, ranked by risk. Reads git history only, so it works on any repo, code or infra.<br><br>
-      <code>pipx install orphan</code>
-    </td>
-    <td width="50%" valign="top">
       <h3>🚋 <a href="https://github.com/Feareis/greline">greline</a></h3>
       <b>Grenoble's trams & buses, live on a map.</b><br>
       Every vehicle moving along its real route, next departures, disrupted sections. Next.js + MapLibre on open data.<br><br>
       <a href="https://greline.app">greline.app ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/Feareis/Orphan">orphan</a></h3>
+      <b>The bus factor, made concrete.</b><br>
+      Lists the files only one person really knows, ranked by risk. Reads git history only, so it works on any repo, code or infra.<br><br>
+      <code>pipx install orphan</code>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
 ## 🖥️ What I run
 
 ```yaml
-systems:  [Debian, Ubuntu, Windows Server, VMware vSphere, Proxmox]
+systems:  [Debian, Ubuntu, Windows Server, VMware vSphere]
 storage:  [HPE Alletra, NetApp, Synology, Veeam]
 network:  [VLAN, routing, DNS, firewalls, VPN/IPsec, HAProxy, Nginx, Apache]
 code:     [Python, Bash, PowerShell, TypeScript, PHP, Node.js, React, C#]
@@ -67,9 +67,9 @@ ops:      [Docker, PostgreSQL, Supabase, Grafana, Centreon, ITIL]
 ## 🔭 Now
 
 <!-- Keep this list short and concrete; update it every month or two. -->
-- 🔨 Working on: **greline** and **orphan**
+- 🔨 Working on: **greline**
 - ⚙️ Automating: the boring parts of my day-to-day ops work
-- 📚 Learning: <!-- e.g. Ansible, Terraform, Kubernetes… -->
+- 📚 Learning: Ansible and Terraform
 
 ---
 
